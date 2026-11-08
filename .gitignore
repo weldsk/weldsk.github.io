@@ -1,3 +1,3 @@
 
-# Claude Code の個人用設定(「もう聞かないで」で許可したコマンドに秘密情報が残ることがあるため)
+# Claude Code の個人用設定
 .claude/settings.local.json
